@@ -1,0 +1,11 @@
+@import './base.css';
+@import 'bootstrap';
+
+
+.status-green {
+    background-color: #8eff8e; /* Green background color */
+  }
+  
+.status-orange {
+background-color: #ffa07a; /* Orange background color */
+}
